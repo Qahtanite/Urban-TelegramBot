@@ -4,8 +4,8 @@ This is a bot that uses the [urban](https://www.npmjs.com/package/urban) NPM mod
 
 ## How to Use
 
-To start using the bot use **npm init** then install the **Node Modules** below.
-then go to **main.js** and replace the _INSERT-TOKEN-HERE_ with your own token.
+To start using the bot use ```npm init``` then install the **Node Modules** below.
+then go to ```main.js``` and replace the ```INSERT-TOKEN-HERE``` with your own token.
 
 To get your own token, log in to telegram and message **BotFather** to get it.
 
