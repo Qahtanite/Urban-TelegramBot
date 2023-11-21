@@ -1,0 +1,4 @@
+{ "errors": {
+    "urban": "ERROR\\: You are searching for a word that is \\(Undefined\\) on urbandictionary\\.com\\!",
+    "urbanArg": "ERROR\\: You didn\\'t type after the command a valid word\\.\\.\\. \n Example: \"/urban Greeting\""
+}}
